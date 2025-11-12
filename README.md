@@ -107,7 +107,7 @@ Currently seeking a **4-month internship** in **AI / Data Science / Big Data**, 
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:louaynagati10@gmail.com"><img src="https://img.shields.io/badge/Email-louay.nagati%40esprit.tn-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:louaynagati10@gmail.com"><img src="https://img.shields.io/badge/Email-louaynagati10%40gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/louay-nagati-36366b21b/"><img src="https://img.shields.io/badge/LinkedIn-Louay%20Nagati-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/louay10"><img src="https://img.shields.io/badge/GitHub-NagatiLouay-black?style=flat-square&logo=github"></a>
 </p>
