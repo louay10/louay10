@@ -8,9 +8,9 @@
 </h3>
 
 <p align="center">
-<a href="mailto:louay.nagati@esprit.tn"><img src="https://img.shields.io/badge/Email-louay.nagati%40esprit.tn-blue?style=flat-square&logo=gmail"></a>
-<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Louay%20Nagati-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://github.com/NagatiLouay"><img src="https://img.shields.io/badge/GitHub-NagatiLouay-black?style=flat-square&logo=github"></a>
+<a href="mailto:louaynagati10@gmail.com"><img src="https://img.shields.io/badge/Email-louay.nagati%40esprit.tn-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/louay-nagati-36366b21b/"><img src="https://img.shields.io/badge/LinkedIn-Louay%20Nagati-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-NagatiLouay-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
@@ -90,7 +90,6 @@ Currently seeking a **4-month internship** in **AI / Data Science / Big Data**, 
 | 📊 **365 Data Science** | Machine Learning in Python • Power BI • ChatGPT for Data Science |
 | 🎓 **Coursera** | Python for Data Science, AI & Development |
 
-📜 [View NVIDIA Certificates](https://learn.nvidia.com/certificates?id=-NSMaA2oSKCSKBinnLGstQ) • [365 Data Science](https://learn.365datascience.com/c/acc6523465/) • [Coursera](https://coursera.org/share/20e8316562c0a9c165fdf2008ce0fe57)
 
 ---
 
@@ -104,25 +103,13 @@ Currently seeking a **4-month internship** in **AI / Data Science / Big Data**, 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NagatiLouay&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NagatiLouay&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagatiLouay&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:louay.nagati@esprit.tn"><img src="https://img.shields.io/badge/Email-louay.nagati%40esprit.tn-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Louay%20Nagati-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/NagatiLouay"><img src="https://img.shields.io/badge/GitHub-NagatiLouay-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:louaynagati10@gmail.com"><img src="https://img.shields.io/badge/Email-louay.nagati%40esprit.tn-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/louay-nagati-36366b21b/"><img src="https://img.shields.io/badge/LinkedIn-Louay%20Nagati-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-NagatiLouay-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
